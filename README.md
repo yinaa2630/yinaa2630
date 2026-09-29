@@ -21,6 +21,7 @@
 NASA 배터리 데이터를 활용한 잔여 수명(RUL) 예측 및 웹 서비스 구현
 
 📌 [Project Detail - Notion](https://buttery-hardboard-7ab.notion.site/01-3e498654360780ac82e1d91cfe3bef34?source=copy_link)
+💻 [GitHub Repository](https://github.com/qkrtnqja97/Team200/tree/develop)
 
 ---
 
@@ -30,6 +31,7 @@ NASA 배터리 데이터를 활용한 잔여 수명(RUL) 예측 및 웹 서비�
 Computer Vision 기반 운전자 상태 분석 및 졸음 운전 탐지
 
 📌 [Project Detail - Notion](https://buttery-hardboard-7ab.notion.site/02-3e498654360780bbbcc4d6fe24ced3e7?source=copy_link)
+💻 [GitHub Repository](https://github.com/yinaa2630/safe-driving)
 
 ---
 
@@ -39,6 +41,7 @@ Computer Vision 기반 운전자 상태 분석 및 졸음 운전 탐지
 AI 모델을 활용한 이미지 기반 딥페이크 탐지
 
 📌 [Project Detail - Notion](https://buttery-hardboard-7ab.notion.site/03-3e498654360780b29f08d4e99e916cdb?source=copy_link)
+💻 [GitHub Repository](https://github.com/yinaa2630/deepfake)
 
 ---
 
@@ -49,6 +52,7 @@ YOLO-Pose와 LSTM을 활용한 운동 자세 분석 및 교정 서비스
 🏆 **K-Digital Training 최종 프로젝트 최우수상**
 
 📌 [Project Detail - Notion](https://buttery-hardboard-7ab.notion.site/04-AI-3e498654360780f990bcf68cfdafce38?source=copy_link)
+💻 [GitHub Repository](https://github.com/yinaa2630/fitness-ai)
 
 ---
 
@@ -58,6 +62,7 @@ YOLO-Pose와 LSTM을 활용한 운동 자세 분석 및 교정 서비스
 기상 데이터를 활용한 골프장 날씨 정보 제공 웹 서비스
 
 📌 [Project Detail - Notion](https://buttery-hardboard-7ab.notion.site/05-3e498654360780bd849cdae7c09dab33?source=copy_link)
+💻 [GitHub Repository](https://github.com/yinaa2630/golf)
 
 ---
 
